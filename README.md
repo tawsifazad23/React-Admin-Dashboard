@@ -1,4 +1,4 @@
-# React Dashboard Application
+# E-commerce Dashboard using REACT
 
 ## Overview
 
