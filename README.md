@@ -1,4 +1,4 @@
-# E-commerce Dashboard using REACT
+# E-Commerce Dashboard using REACT
 
 ## Overview
 
