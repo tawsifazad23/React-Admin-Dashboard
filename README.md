@@ -28,10 +28,4 @@ This React Dashboard Application is an advanced, feature-rich web application de
 - CSS
 - Local Storage for persistence
 
-## Getting Started
 
-(Instructions on setting up the project, installing dependencies, and running the application.)
-
-## Contributors
-
-(List of contributors, if applicable)
